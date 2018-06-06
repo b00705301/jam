@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <Head>
         <Title>Le Groupe</Title>
 
@@ -37,6 +39,19 @@
             .presentation {
 
             }
+
+            .title {
+                font-family: 'Garamond';
+                color: black;
+                font-weight: bold;
+                text-align:center
+            }
+            .description {
+                font-family: 'Garamond';
+                color: black;
+                font-size: 16px;
+                text-align: center;
+            }
             
             @media only screen and (max-width:620px) {
               /* For mobile phones: */
@@ -49,11 +64,40 @@
 </head>
 
 <body style="font-family:Verdana;color:#aaaaaa;">
+
+        <div style="background-color:#e5e5e5;padding:15px;text-align:center;">
+                <h1>JAM ESSEC</h1>
+            </div>
+                
+            <div style="overflow:auto">
+                                            
+                <div class="menu">
+                <a href="#">Accueil</a>
+                <a href="#">Galerie</a>
+                <a href="#">Contacts</a>
+                <a href="le-groupe.html" target='_self'>Le groupe</a>
+            </div>
+        
+            
         <div style="overflow:auto">
 
+                <div class="main">
+                        <h2>Notre association</h2>
+                        <p>Description complète de l'asso</p>
+                    </div>
+                        
+                    <div class="right">
+                        <img src="DSC_0012.jpg" style="max-width:100%;height:auto;">
+                    </div>
+                        
+                    <div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;"> © copyright JamESSEC.com</div>
+                </div>
+
 <div class = "presentation">
-        <h2> Le président</p>
-            <p> Description </p>
+    
+        <h2 class= "title"> Le président</p>
+
+            <p class= "description"> Description </p>
 </div>
 
     </div>
