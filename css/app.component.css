@@ -164,7 +164,7 @@
       text-decoration: none; }
 
 .header {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("/images/jumbotron_full/jam-header.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("/images/photos/jam-header.jpg");
   background-size: cover;
   top: 0;
   left: 0; }
