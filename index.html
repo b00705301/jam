@@ -1,86 +1,25 @@
-<!DOCTYPE html>
-
 <html>
+  <head>
+    <base href="/">
+    <title>Jam ESSEC</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/styles.css">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Polyfill(s) for older browsers -->
+    <script src="node_modules/core-js/client/shim.min.js"></script>
 
-<head>
-    <style>
-        * {
-          box-sizing: border-box;
-        }
-        .menu {
-          float:left;
-          width:20%;
-          text-align:center;
-        }
-        .menu a {
-          background-color:#e5e5e5;
-          padding:8px;
-          margin-top:7px;
-          display:block;
-          width:100%;
-          color:black;
-        }
-        .main {
-          float:left;
-          width:60%;
-          padding:0 20px;
-        }
-        .right {
-          background-color:#e5e5e5;
-          float:left;
-          width:20%;
-          padding:15px;
-          margin-top:7px;
-          text-align:center;
-        }
-        
-        @media only screen and (max-width:620px) {
-          /* For mobile phones: */
-          .menu, .main, .right {
-            width:100%;
-          }
-        }
-    </style>
-</head>
+    <script src="node_modules/zone.js/dist/zone.js"></script>
+    <script src="node_modules/reflect-metadata/Reflect.js"></script>
+    <script src="node_modules/systemjs/dist/system.src.js"></script>
 
-<body style="font-family:Verdana;color:#aaaaaa;">
-        
-     <div style="background-color:#e5e5e5;padding:15px;text-align:center;">
-        <h1>JAM ESSEC</h1>
-    </div>
-        
-    <div style="overflow:auto">
-      
-<!- Menu de redirection->
-        <div class="menu">
-        <a href="#">Accueil</a>
-        <a href="#">Galerie</a>
-        <a href="#">Contacts</a>
-        <a href="le-groupe.html" target='_self'>Le groupe</a>
-    </div>
+    <script src="systemjs.config.js"></script>
+    <script>
+      System.import('app').catch(function(err){ console.error(err); });
+    </script>
+  </head>
 
-
-   <!- Bandereau haut->     
-    <div class="main">
-        <h2>Notre association</h2>
-        <p>Description complète de l'asso</p>
-    </div>
-        
-    <!- bande latéral->
-    <div class="right">
-        <img src="DSC_0012.jpg" style="max-width:100%;height:auto;">
-    </div>
-        
-    <div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;"> © copyright JamESSEC.com</div>
-
-    <!- Corps->
-    <div>
-      <p> Test </p>
-
-    </div>
-
- </body>
-
+  <body>
+      <my-app>En chargement...</my-app>
+  </body>
 </html>

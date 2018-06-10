@@ -1,4 +1,3 @@
-#Ce repo est le projet de création de site web
-#Le projet est un site internet utile pour l'association de musique JAM ESSEC
-#Il a été créé et est géré par Félix PERREAU et François-Xavier NALINE
-#V 1.0
+# Projet de Création de site web - ESSEC
+# Site de Jam ESSEC - association de musique
+# Créateurs: Félix PERREAU ; 
