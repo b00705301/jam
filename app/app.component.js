@@ -22,9 +22,6 @@ var AppComponent = (function () {
         this.title = 'Infos';
         this.showMenuScreen = false;
     }
-    // SetTitle() {
-    //     this.title = this.pageinfoService.getTitle();
-    // }
     AppComponent.prototype.MenuToggle = function () {
         this.showMenuScreen = !this.showMenuScreen;
         console.log('showMenuScreen: ' + this.showMenuScreen);

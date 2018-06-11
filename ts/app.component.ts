@@ -57,10 +57,6 @@ export class AppComponent {
   constructor(private pageinfoService: PageinfoService) {
   }
 
-  // SetTitle() {
-  //     this.title = this.pageinfoService.getTitle();
-  // }
-
   MenuToggle() {
     this.showMenuScreen = !this.showMenuScreen;
     console.log('showMenuScreen: ' + this.showMenuScreen);
