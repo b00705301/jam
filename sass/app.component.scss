@@ -208,6 +208,20 @@ $footer-color: black;
   position: relative;
 }
 
+.content {
+  h1 {
+    color: navajowhite;
+    font-family: Cambria, Georgia, sans-serif;
+    font-size: 10px;
+  }
+  h2, h3 {
+    color: navajowhite;
+    font-family: Cambria, Georgia, sans-serif;
+    font-weight: lighter;
+    font-size: 5px;
+  }
+}
+
 .pageinfo-bar {
   display: flex;
   width: 100%;
