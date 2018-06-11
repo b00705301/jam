@@ -3,7 +3,7 @@
   min-height: 50px;
   left: 0;
   right: 0;
-  background: green;
+  background: rgba(227, 228, 220, 0.5);
   position: fixed; }
   .mobile-menu .menu-link {
     margin-left: auto;
@@ -32,8 +32,6 @@
       /* iOS Safari */
       -webkit-user-select: none;
       /* Chrome/Safari/Opera */
-      -khtml-user-select: none;
-      /* Konqueror */
       -moz-user-select: none;
       /* Firefox */
       -ms-user-select: none;
@@ -46,7 +44,7 @@
   justify-content: center;
   /* center items vertically, in this case */
   align-items: center;
-  background: green;
+  background: rgba(227, 228, 220, 0.5);
   position: fixed;
   top: 50px;
   left: 0;
@@ -58,8 +56,6 @@
   /* iOS Safari */
   -webkit-user-select: none;
   /* Chrome/Safari/Opera */
-  -khtml-user-select: none;
-  /* Konqueror */
   -moz-user-select: none;
   /* Firefox */
   -ms-user-select: none;
