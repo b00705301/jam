@@ -2,55 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f355444-5f54-43d6-90cc-60f98ec07a49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-11-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-21-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-21-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-21-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-21-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-21-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-21-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/image4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/contact.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/contact.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/contact.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/contact.component.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/galerie.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/galerie.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/galerie.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/galerie.component.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/groupe.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/groupe.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/groupe.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/groupe.component.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/infos.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/infos.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/infos.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/infos.component.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pageinfo.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/pageinfo.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pageinfo.service.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/pageinfo.service.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/references.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/references.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/references.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/references.component.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blog.component.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/galerie.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/galerie.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemjs.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/systemjs.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-11-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-21-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-21-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-21-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-21-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-21-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img-21-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-bg.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,8 +37,8 @@
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="345">
+              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -76,40 +46,34 @@
       <file leaf-file-name="galerie.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/galerie.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="451">
+              <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/font-awesome-4.5.0/css/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="HELP-US-OUT.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/font-awesome-4.5.0/HELP-US-OUT.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="groupe.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/groupe.component.html">
+      <file leaf-file-name="contact.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/contact.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ts/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="-78">
               <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -118,23 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typings.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/typings.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="tslint.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tslint.json">
+      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-            </state>
+            <state relative-caret-position="-4683" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/app.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="657">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -176,9 +137,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
     <option name="y" value="23" />
-    <option name="width" value="1368" />
+    <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -197,6 +157,11 @@
             <path>
               <item name="jam" type="b2602c69:ProjectViewProjectNode" />
               <item name="jam" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jam" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -209,6 +174,16 @@
               <item name="jam" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="photos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jam" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jam" type="462c0819:PsiDirectoryNode" />
+              <item name="ts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,19 +246,20 @@
       <workItem from="1528715927471" duration="333000" />
       <workItem from="1528817418452" duration="2912000" />
       <workItem from="1528880266028" duration="35000" />
-      <workItem from="1528881621614" duration="1697000" />
+      <workItem from="1528881621614" duration="1975000" />
+      <workItem from="1528906450646" duration="209000" />
+      <workItem from="1528907234111" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12746000" />
+    <option name="totallyTimeSpent" value="14208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1437" height="800" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="793" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982603" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930556" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -311,13 +287,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4860">
-          <caret line="324" column="8" lean-forward="true" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/app.component.scss" />
     <entry file="file://$PROJECT_DIR$/html/app.component.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -340,9 +309,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/references.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/blog.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/app.component.scss" />
@@ -383,13 +349,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -426,16 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/contact.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.component.js.map">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
@@ -467,16 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ts/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -484,13 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -510,10 +442,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blog.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4683" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ts/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/contact.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/galerie.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        <state relative-caret-position="451">
+          <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
         </state>
       </provider>
     </entry>
