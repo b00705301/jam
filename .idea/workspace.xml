@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f355444-5f54-43d6-90cc-60f98ec07a49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/groupe.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/groupe.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/app.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/contact.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/galerie.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/groupe.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/infos.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/references.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/styles.scss" beforeDir="false" />
-    </list>
+    <list default="true" id="2f355444-5f54-43d6-90cc-60f98ec07a49" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,8 +26,8 @@
       <file leaf-file-name="app.component.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/app.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="218" column="21" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="21" />
+            <state relative-caret-position="244">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -140,8 +126,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="643" />
-    <option name="height" value="805" />
+    <option name="width" value="1078" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,15 +222,15 @@
       <workItem from="1528706533800" duration="1753000" />
       <workItem from="1528708355432" duration="4069000" />
       <workItem from="1528715927471" duration="333000" />
-      <workItem from="1528817418452" duration="2647000" />
+      <workItem from="1528817418452" duration="2912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10749000" />
+    <option name="totallyTimeSpent" value="11014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="23" width="899" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1078" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -255,7 +241,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39933258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3330241" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -523,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="218" column="21" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="21" />
+        <state relative-caret-position="244">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
