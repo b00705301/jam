@@ -3,7 +3,7 @@ import { Router }           from '@angular/router-deprecated';
 
 @Component({
     selector: 'my-contact',
-    templateUrl: 'html/infos.component.html',
+    templateUrl: 'html/contact.component.html',
     styleUrls: ['css/contact.component.css',
     'css/app.component.css']
 })
