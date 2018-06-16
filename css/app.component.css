@@ -34,7 +34,7 @@
 .mobile-menu .menu-link .close-menu {
   padding: 5px 10px;
   font-size: 30px;
-  color: white;
+  color: black;
   cursor: pointer;
   -webkit-touch-callout: none;
   /* iOS Safari */
@@ -96,11 +96,11 @@
 }
 
 .mobile-menu-screen .a-box a:visited, .mobile-menu-screen .a-box a:link {
-  color: white;
+  color: black;
 }
 
 .mobile-menu-screen .a-box a:hover, .mobile-menu-screen .a-box a.router-link-active {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid black;
   margin-bottom: 0px;
   text-decoration: none;
 }
@@ -198,7 +198,7 @@
 }
 
 .header {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("/images/photos/jam-header.jpg");
+  background: url("/images/photos/jam-header.jpg");
   background-size: cover;
   top: 0;
   left: 0;

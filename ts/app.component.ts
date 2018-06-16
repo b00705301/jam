@@ -4,7 +4,6 @@ import {RouteConfig, ROUTER_DIRECTIVES, ROUTER_PROVIDERS} from '@angular/router-
 import {PageinfoService} from './pageinfo.service';
 
 import {GalerieComponent} from './galerie.component';
-import {ReferencesComponent} from './references.component';
 import {InfosComponent} from './infos.component';
 import {GroupeComponent} from './groupe.component';
 import {ContactComponent} from './contact.component';
@@ -28,11 +27,6 @@ import {ContactComponent} from './contact.component';
     component: GalerieComponent,
   },
   {
-    path: '/references',
-    name: 'References',
-    component: ReferencesComponent,
-  },
-  {
     path: '/infos',
     name: 'Infos',
     component: InfosComponent,
@@ -53,9 +47,6 @@ import {ContactComponent} from './contact.component';
 export class AppComponent {
   title: string = 'Infos';
   showMenuScreen = false;
-
-  constructor(private pageinfoService: PageinfoService) {
-  }
 
   MenuToggle() {
     this.showMenuScreen = !this.showMenuScreen;
