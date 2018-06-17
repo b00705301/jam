@@ -1,17 +1,6 @@
-div#slider { width: 80%; max-width: 300px; }
+div#slider figure img { width: 20%; height: auto; float: left; }
 
-div#slider figure {
-  position: relative;
-  width: 500%;
-  margin: 0;
-  padding: 0;
-  font-size: 0;
-  text-align: center;
-}
-
-div#slider figure img { width: 20%; height: 200px; float: left; }
-
-div#slider { width: 80%; max-width: 300px; overflow: hidden }
+div#slider { width: 80%; max-width: 700px; overflow: hidden }
 
 @keyframes slidy {
   0% { left: 0%; }
@@ -32,7 +21,43 @@ div#slider figure {
   padding: 0;
   font-size: 0;
   left: 0;
-  text-align: center;
-  animation: 15s slidy infinite;
+  text-align: left;
+  animation: 20s slidy infinite;
 }
 
+#tableau {
+  font-size: 12px;
+  margin: 10px 0;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+#tableau th {
+  font-size: 13px;
+  font-weight: normal;
+  padding: 8px;
+  background: #b9c9fe url('http://4.bp.blogspot.com/_xDpoN6UfFFY/S-J2gjh1nPI/AAAAAAAACbg/7lNsVpks2oY/s1600/gradhead.png') repeat-x;
+  border-top: 2px solid #d3ddff;
+  border-bottom: 1px solid #fff;
+  color: #039;
+}
+#tableau td {
+  padding: 8px;
+  border-bottom: 1px solid #fff;
+  color: #669;
+  border-top: 1px solid #fff;
+  background: #e8edff url('http://1.bp.blogspot.com/_xDpoN6UfFFY/S-J2f5yBC3I/AAAAAAAACbY/zWXYXsR-w5E/s1600/gradback.png') repeat-x;
+}
+#tableau tfoot tr td {
+  background: #e8edff;
+  font-size: 16px;
+  color: #99c;
+  text-align:center;
+}
+#tableau tbody tr:hover td {
+  background: #d0dafd url('http://4.bp.blogspot.com/_xDpoN6UfFFY/S-J2hsztUzI/AAAAAAAACbo/ztV1CK0RUrE/s1600/gradhover.png') repeat-x;
+  color: #339;
+}
+#tableau a:hover {
+  text-decoration:underline;
+}
