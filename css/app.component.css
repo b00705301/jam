@@ -207,7 +207,7 @@
 .content-wrapper {
   display: flex;
   margin: 0px 0px 0px;
-  background: rgba(227, 228, 220, 0.5);
+  background: white;
   text-align: center;
   position: relative;
 }
@@ -222,7 +222,7 @@
 .carrousel {
   display: flex;
   margin: 0px 0px 0px;
-  background: rgba(227, 228, 220, 0.5);
+  background: white;
   text-align: center;
   position: relative;
   float: right;
