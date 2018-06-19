@@ -22,7 +22,7 @@ var ContactComponent = (function () {
     ContactComponent = __decorate([
         core_1.Component({
             selector: 'my-contact',
-            templateUrl: 'html/infos.component.html',
+            templateUrl: 'html/contact.component.html',
             styleUrls: ['css/contact.component.css',
                 'css/app.component.css']
         }), 

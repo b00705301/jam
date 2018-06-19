@@ -12,13 +12,11 @@ var core_1 = require('@angular/core');
 var router_deprecated_1 = require('@angular/router-deprecated');
 var pageinfo_service_1 = require('./pageinfo.service');
 var galerie_component_1 = require('./galerie.component');
-var references_component_1 = require('./references.component');
 var infos_component_1 = require('./infos.component');
 var groupe_component_1 = require('./groupe.component');
 var contact_component_1 = require('./contact.component');
 var AppComponent = (function () {
-    function AppComponent(pageinfoService) {
-        this.pageinfoService = pageinfoService;
+    function AppComponent() {
         this.title = 'Infos';
         this.showMenuScreen = false;
     }
@@ -47,11 +45,6 @@ var AppComponent = (function () {
                 component: galerie_component_1.GalerieComponent,
             },
             {
-                path: '/references',
-                name: 'References',
-                component: references_component_1.ReferencesComponent,
-            },
-            {
                 path: '/infos',
                 name: 'Infos',
                 component: infos_component_1.InfosComponent,
@@ -68,7 +61,7 @@ var AppComponent = (function () {
                 component: contact_component_1.ContactComponent,
             },
         ]), 
-        __metadata('design:paramtypes', [pageinfo_service_1.PageinfoService])
+        __metadata('design:paramtypes', [])
     ], AppComponent);
     return AppComponent;
 }());
