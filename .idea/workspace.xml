@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f355444-5f54-43d6-90cc-60f98ec07a49" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/groupe.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/groupe.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/html/galerie.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -38,8 +37,12 @@
       <file leaf-file-name="groupe.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/groupe.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="15" selection-start-column="31" selection-end-line="19" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#1035#1040#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +50,8 @@
       <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/app.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="211" column="24" lean-forward="true" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
+            <state relative-caret-position="3165">
+              <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -204,16 +207,16 @@
       <workItem from="1529400130570" duration="2053000" />
       <workItem from="1529403002102" duration="463000" />
       <workItem from="1529407625055" duration="257000" />
-      <workItem from="1529418844184" duration="849000" />
+      <workItem from="1529418844184" duration="1516000" />
+      <workItem from="1529421851828" duration="506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29884000" />
+    <option name="totallyTimeSpent" value="31057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="793" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="10" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930556" />
@@ -256,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/references.component.html" />
     <entry file="file://$PROJECT_DIR$/app/app.component.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -303,8 +306,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact.component.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/html/infos.component.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -438,22 +441,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="211" column="24" lean-forward="true" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
+        <state relative-caret-position="3165">
+          <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/galerie.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/groupe.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="15" selection-start-column="31" selection-end-line="19" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#1035#1040#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
