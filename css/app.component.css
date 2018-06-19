@@ -209,7 +209,8 @@
   margin: 0px 0px 0px;
   background: white;
   text-align: center;
-  position: relative;
+  align-content: center;
+  position: relative;
 }
 
 .content h1 {
