@@ -8,9 +8,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var core_1 = require('@angular/core');
-var router_deprecated_1 = require('@angular/router-deprecated');
-var GalerieComponent = (function () {
+Object.defineProperty(exports, "__esModule", { value: true });
+var core_1 = require("@angular/core");
+var router_deprecated_1 = require("@angular/router-deprecated");
+var GalerieComponent = /** @class */ (function () {
     function GalerieComponent(router) {
         this.router = router;
         this.title = 'Galerie';
@@ -25,8 +26,8 @@ var GalerieComponent = (function () {
             templateUrl: 'html/galerie.component.html',
             styleUrls: ['css/galerie.component.css', 'css/app.component.css'],
             pipes: []
-        }), 
-        __metadata('design:paramtypes', [router_deprecated_1.Router])
+        }),
+        __metadata("design:paramtypes", [router_deprecated_1.Router])
     ], GalerieComponent);
     return GalerieComponent;
 }());
