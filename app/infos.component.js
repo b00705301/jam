@@ -8,10 +8,9 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-Object.defineProperty(exports, "__esModule", { value: true });
-var core_1 = require("@angular/core");
-var router_deprecated_1 = require("@angular/router-deprecated");
-var InfosComponent = /** @class */ (function () {
+var core_1 = require('@angular/core');
+var router_deprecated_1 = require('@angular/router-deprecated');
+var InfosComponent = (function () {
     function InfosComponent(router) {
         this.router = router;
         this.title = 'Infos';
@@ -28,8 +27,8 @@ var InfosComponent = /** @class */ (function () {
             templateUrl: 'html/infos.component.html',
             styleUrls: ['css/infos.component.css', 'css/app.component.css'],
             pipes: []
-        }),
-        __metadata("design:paramtypes", [router_deprecated_1.Router])
+        }), 
+        __metadata('design:paramtypes', [router_deprecated_1.Router])
     ], InfosComponent);
     return InfosComponent;
 }());

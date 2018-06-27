@@ -8,10 +8,9 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-Object.defineProperty(exports, "__esModule", { value: true });
-var core_1 = require("@angular/core");
-var router_deprecated_1 = require("@angular/router-deprecated");
-var GroupeComponent = /** @class */ (function () {
+var core_1 = require('@angular/core');
+var router_deprecated_1 = require('@angular/router-deprecated');
+var GroupeComponent = (function () {
     function GroupeComponent(router) {
         this.router = router;
         this.title = 'Groupe';
@@ -26,8 +25,8 @@ var GroupeComponent = /** @class */ (function () {
             templateUrl: 'html/groupe.component.html',
             styleUrls: ['css/groupe.component.css',
                 'css/app.component.css']
-        }),
-        __metadata("design:paramtypes", [router_deprecated_1.Router])
+        }), 
+        __metadata('design:paramtypes', [router_deprecated_1.Router])
     ], GroupeComponent);
     return GroupeComponent;
 }());
